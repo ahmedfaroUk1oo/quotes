@@ -1,0 +1,8 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button:hover {
+background-color: green !important;
+transition: background-color .3s ease-in-out;
+}
